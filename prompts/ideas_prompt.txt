@@ -1,0 +1,2 @@
+Generate 5 LinkedIn post ideas as JSON list.
+For each idea: {title, angle, why_it_matters, suggested_CTA}

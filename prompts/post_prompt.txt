@@ -1,0 +1,7 @@
+Write two LinkedIn post variants (A and B) from the idea below.
+Constraints:
+- First line is a thumb-stopping hook (<140 chars)
+- Body: short paragraphs, bullets allowed
+- Close with exactly one CTA line
+- Add 3-5 hashtags (mix of niche+broad)
+Return JSON: {A:{text,hashtags[]}, B:{text,hashtags[]}}

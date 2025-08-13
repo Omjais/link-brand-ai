@@ -1,0 +1,2 @@
+Suggest 5 relevant hashtags (mix niche and broad) for the given post text.
+Return JSON list of strings.
